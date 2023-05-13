@@ -1,0 +1,23 @@
+.sidebar-container {
+    height: auto;
+}
+
+.user-img {
+    max-width: 60px;
+    max-height: 60px;
+    border: solid 1px gray;
+    border-radius: 100%;
+}
+
+.bg-gray {
+    background-color: rgb(231, 231, 231);
+}
+
+.break-btn {
+    height: 60px;
+    width: 60px
+}
+
+.finish-btn {
+    height: 60px;
+}
